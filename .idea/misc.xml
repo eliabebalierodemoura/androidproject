@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.106" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/drawable/ic_baseline_minimize_24.xml" value="0.106" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.106" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.106" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/drawable/shopping_cart_24.xml" value="0.2885" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/layout/activity_main.xml" value="0.4585635359116022" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/layout/activity_sign_in.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/LoginSignUpKotlin-master/app/src/main/res/layout/my_adapter.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main3.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main4.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main5.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main6.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main7.xml" value="0.2875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_main8.xml" value="0.2734375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_product_description.xml" value="0.271875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_product_description2.xml" value="0.2234375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/activity_shoppingcard.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/my_adapter.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/androidproject-main/app/src/main/res/layout/user_list.xml" value="0.20253164556962025" />
+        <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Kotlin Project/Practice Project/LoginAndSignUp/app/src/main/res/layout/activity_main.xml" value="0.2484375" />
+        <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Kotlin Project/Practice Project/LoginAndSignUp/app/src/main/res/layout/activity_sign_in.xml" value="0.2484375" />
+        <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Kotlin Project/Practice Project/LoginAndSignUp/app/src/main/res/layout/activity_sign_up.xml" value="0.2484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
