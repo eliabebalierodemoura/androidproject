@@ -4,7 +4,7 @@
 
                       Link for the video of this project on YouTube below: 
 
-                          Eliabe ID24066 Ca4 Shopping mobile - YouTube 
+                      https://www.youtube.com/watch?v=1rG9EQdyvgQ&feature=youtu.be
 
  
 
@@ -36,8 +36,8 @@ This was the last project for this module Ca4 mobile App, where I used this repo
 
 References: 
 
-Login Screen in 10 minutes using Android Studio - Kotlin - YouTube 
+https://www.youtube.com/watch?v=VRlvYWpertE&t=545s 
 
-Kotlin - RecyclerView List Data From JSON API - YouTube 
+https://www.youtube.com/watch?v=rBQi_7L-Uc8&t=526s 
 
  
