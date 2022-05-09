@@ -1,6 +1,8 @@
-                                                 
-
- 
+Eliabe Baliero De Moura ID: 24066 
+Android Studio, Mobile App Ca4 Shopping project: 
+Link for the video of this project on YouTube below:                                                               
+https://www.youtube.com/watch?v=1rG9EQdyvgQ&feature=youtu.be
+                                                  
 Abstract: 
 
 This is the Ca4 project of mobile App in Android studio, for this module we were required to create or build a Shopping App in Android studio where users will be allowed to make purchase, and buy they product, keeping their order history and browser thought this App. The App requirements were done by the lecture of this module and all students should be able to build it following the instructions given on Moodle.   
