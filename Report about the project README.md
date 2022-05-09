@@ -1,10 +1,8 @@
-                                                               Eliabe Baliero De Moura ID: 24066 
+                                                  Eliabe Baliero De Moura ID: 24066 
 
-                                                          Android Studio, Mobile App Ca4 Shopping project: 
+                                                  Android Studio, Mobile App Ca4 Shopping project: 
 
-                                                         Link for the video of this project on YouTube below: 
-
-                                                      https://www.youtube.com/watch?v=1rG9EQdyvgQ&feature=youtu.be
+                                                  Link for the video of this project on YouTube below:                                                                                                                   https://www.youtube.com/watch?v=1rG9EQdyvgQ&feature=youtu.be
 
  
 Abstract: 
